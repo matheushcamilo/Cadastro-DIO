@@ -1,0 +1,16 @@
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\bin\Debug\net5.0\Cadastros.exe
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\bin\Debug\net5.0\Cadastros.deps.json
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\bin\Debug\net5.0\Cadastros.runtimeconfig.json
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\bin\Debug\net5.0\Cadastros.runtimeconfig.dev.json
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\bin\Debug\net5.0\Cadastros.dll
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\bin\Debug\net5.0\ref\Cadastros.dll
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\bin\Debug\net5.0\Cadastros.pdb
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\obj\Debug\net5.0\Cadastros.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\obj\Debug\net5.0\Cadastros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\obj\Debug\net5.0\Cadastros.AssemblyInfoInputs.cache
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\obj\Debug\net5.0\Cadastros.AssemblyInfo.cs
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\obj\Debug\net5.0\Cadastros.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\obj\Debug\net5.0\Cadastros.dll
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\obj\Debug\net5.0\ref\Cadastros.dll
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\obj\Debug\net5.0\Cadastros.pdb
+C:\Users\matth\OneDrive\Área de Trabalho\Projeto-Cadastros\Cadastros\Cadastros\obj\Debug\net5.0\Cadastros.genruntimeconfig.cache
