@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cadastros.Enum
+namespace Cadastros.EnumLocal
 {
     public enum Genero
     {

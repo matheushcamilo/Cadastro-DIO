@@ -8,7 +8,7 @@ namespace Cadastros.Classes
 {
     public abstract class EntidadeBase
     {
-        private int Id { get; protected set; }
+        private int Id { get; set;}
     }
     
 }

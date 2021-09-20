@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Cadastros.Enum;
+using Cadastros.EnumLocal;
 
 namespace Cadastros.Classes
 {
@@ -22,10 +22,6 @@ namespace Cadastros.Classes
             this.descricao = descricao;
             this.ano = ano;
             this.excluido = false;
-        }
-
-        public void Excluir(){
-            this.excluido = true;
         }
 
         public string toString(){

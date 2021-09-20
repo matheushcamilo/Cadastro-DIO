@@ -10,12 +10,12 @@ namespace Cadastros.Classes
 
         public void Atualizar(int i, Series objeto)
         {
-            listaSerie[i] = objeto;
+            listaSerie[i - 1] = objeto;
         }
 
         public void Excluir(int i)
         {
-            listaSerie[i].Excluir();
+            listaSerie.RemoveAt(i - 1);
         }
 
         public void Inserir(Series objeto)
@@ -35,14 +35,24 @@ namespace Cadastros.Classes
 
         public Series RetornaPorId(int id)
         {
-            return listaSerie[id];
+            return listaSerie[id - 1];
+        }
+
+        public bool isEmpty()
+        {
+            return Tamanho() == 0;
         }
 
         public string ToString()
         {
-            int count = 0;
+            if(isEmpty())
+            {
+                Console.WriteLine("Lista vazia");
+                return "Catálogo de séries vazio!";
+            }
+            int count = 1;
             string str = "";
-            while(count < Tamanho())
+            while(count <= Tamanho())
             {
                 str += "Série " + count + ":\n";
                 str += RetornaPorId(count).toString();
